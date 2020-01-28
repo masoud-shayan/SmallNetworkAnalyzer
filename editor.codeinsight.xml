@@ -1,0 +1,7 @@
+<application>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="allowToCompleteWithWhitespace" value="false" />
+    <option name="alwaysCompleteWithEnter" value="false" />
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
+</application>
