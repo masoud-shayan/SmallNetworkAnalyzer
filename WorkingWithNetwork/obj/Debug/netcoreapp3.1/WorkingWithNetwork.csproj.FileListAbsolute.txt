@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.pdb
