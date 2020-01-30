@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ab72ab8-b715-45f1-9053-8e9c6d0586a3" name="Default Changelist" comment="first commit">
+      <changelist_data name="" email="" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WorkingWithNetwork" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/masoud-shayannejad/SmallNetworkAnalyzer.git" />
+      </set>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WorkingWithNetwork/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WorkingWithNetwork/Program.cs" />
+        <option value="$PROJECT_DIR$/.idea/.idea.WorkingWithNetwork/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Alekhandr0\Desktop\dot-net-core\chapter08\WorkingWithNetwork\.idea\.idea.WorkingWithNetwork\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X2dG8WX7ehUC2gYwVoyoHUOyzY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WorkingWithNetwork" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WorkingWithNetwork/WorkingWithNetwork.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ab72ab8-b715-45f1-9053-8e9c6d0586a3" name="Default Changelist" comment="" />
+      <created>1580248026001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580248026001</updated>
+      <workItem from="1580248027629" duration="2597000" />
+      <workItem from="1580251114106" duration="4292000" />
+      <workItem from="1580255470574" duration="92000" />
+      <workItem from="1580255673610" duration="1564000" />
+    </task>
+    <task id="LOCAL‎۰۰۰۰۱" summary="first commit">
+      <created>1580253324245</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1580253324245</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۲" summary="first commit">
+      <created>1580255189893</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
+      <updated>1580255189893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Deployment" timestamp="1580253790163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1580253790163" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1580255975323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580255975323" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1580255975322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580255975322" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1580255975322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580255975322" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1580255975322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580255975322" />
+    <state x="448" y="237" width="216" height="218" key="LayersDialog" timestamp="1580255389735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="237" width="216" height="218" key="LayersDialog/0.0.1366.728@0.0.1366.728" timestamp="1580255389735" />
+    <state x="297" y="74" key="RollbackChangesDialog" timestamp="1580251718845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="297" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580251718845" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1580256451871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580256451871" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580255128509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1580255128509" />
+    <state x="339" y="154" key="git4idea.merge.GitPullDialog" timestamp="1580256100882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="154" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1580256100882" />
+    <state x="390" y="263" key="git4idea.ui.GitStashDialog" timestamp="1580253659727">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="263" key="git4idea.ui.GitStashDialog/0.0.1366.728@0.0.1366.728" timestamp="1580253659727" />
+  </component>
+</project>
